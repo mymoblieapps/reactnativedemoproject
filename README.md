@@ -1,7 +1,7 @@
-<h2>React-native<h2>
+<h2>React-native</h2>
 
 
-Installation steps :
+<b>Installation steps :</b>
 
 1. Node
 2. Git
