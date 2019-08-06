@@ -64,10 +64,7 @@ npm install react-native-elements --save
 CSB3410;CR0QAX10003628 LIQAW SOEZ CR2Z*Benefit not valid for accounts with prepaid plans. Manage Customer account.=>CustomerAccountCACTO104.tztCustomer benefits
 
 
-
-
-
-
+apk file will be placed here and Android Play Store too. 
 
 
 
