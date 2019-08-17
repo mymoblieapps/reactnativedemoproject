@@ -9,6 +9,12 @@
       "android",
       "web"
     ],
+    "ios": {
+      "bundleIdentifier": "com.reshimgathi.reshimgathi"
+    },
+    "android": {
+      "package": "com.reshimgathi.reshimgathi"
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

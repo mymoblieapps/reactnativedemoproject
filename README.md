@@ -67,6 +67,10 @@ CSB3410;CR0QAX10003628 LIQAW SOEZ CR2Z*Benefit not valid for accounts with prepa
 apk file will be placed here and Android Play Store too. 
 
 
+//Update expo cli online
+npm install -g expo-cli
+
+
 
 
 
