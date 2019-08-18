@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Reshimgathi",
+    "name": "Reshimgathi Matrimony",
     "slug": "reshimgathi",
     "privacy": "public",
     "sdkVersion": "33.0.0",
@@ -17,7 +17,7 @@
     },
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/banner2.jpg",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
