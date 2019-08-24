@@ -9,7 +9,18 @@
 4. Virtual Box
 5. Yarn
 6. Andriod Studio Code
-7. Expo
+7. Expo   => npm install expo-cli --global
+
+npm --version
+node --version
+git --version
+expo --version
+
+
+//List commands when ervything is installed correctly
+
+1. expo init <projectName>
+2. expo start 
 
 
 C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools>
@@ -38,12 +49,12 @@ adb start-server
 
 adb kill-server
 
+//to get list of all adb.exe placed over c drive.
 where /r C:\ adb.exe
 
 
 
-C:\Program Files\Genymobile\Genymotion\tools\adb.exe                                                           
-1.0.40
+C:\Program Files\Genymobile\Genymotion\tools\adb.exe                         1.0.40
 
 C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools\adb.exe
 version 1.0.41
@@ -55,21 +66,7 @@ C:\Users\Admin\Downloads\platform-tools_r29.0.1-windows\platform-tools\adb.exe
 version 1.0.41
 
 
-
 npm install react-native-elements --save
-
-
-
-
-CSB3410;CR0QAX10003628 LIQAW SOEZ CR2Z*Benefit not valid for accounts with prepaid plans. Manage Customer account.=>CustomerAccountCACTO104.tztCustomer benefits
-
-
-apk file will be placed here and Android Play Store too. 
-
-
-//Update expo cli online
-npm install -g expo-cli
-
 
 
 
