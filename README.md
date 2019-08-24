@@ -2,7 +2,7 @@
 
 
 <b>Installation steps :</b>
-
+0. npm //C:\Users\OM SAI\AppData\Roaming\npm
 1. Node
 2. Git
 3. Genemotion
