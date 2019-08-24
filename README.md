@@ -2,7 +2,12 @@
 
 
 <b>Installation steps :</b>
-0. npm //C:\Users\OM SAI\AppData\Roaming\npm
+0. npm 
+  //C:\Users\OM SAI\AppData\Roaming\npm
+  Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force
+  npm install -g npm-windows-upgrade
+  npm-windows-upgrade
+
 1. Node
 2. Git
 3. Genemotion
